@@ -8,6 +8,7 @@ O jogo contém uma grade 3x3 (nove quadrados).
 O jogo exibe uma sequência de luzes que o jogador deve memorizar e repetir corretamente.
 
 Três níveis de dificuldade:
+
 o Fácil: Sequência mais curta e pisca mais devagar.
 o Médio: Sequência intermediária e velocidade média.
 o Difícil: Sequência mais longa e pisca rapidamente.
